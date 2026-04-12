@@ -1,0 +1,2 @@
+{"created_at_ms":1776011735559,"model":"openai/gpt-oss-20b","session_id":"session-1776011735559-0","type":"session_meta","updated_at_ms":1776011735559,"version":1}
+{"message":{"blocks":[{"text":"list the files in this repo as a simple bullet list","type":"text"}],"role":"user"},"type":"message"}

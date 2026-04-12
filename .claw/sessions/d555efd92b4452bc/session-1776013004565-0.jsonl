@@ -1,0 +1,2 @@
+{"created_at_ms":1776013004565,"model":"openai/gpt-oss-20b","session_id":"session-1776013004565-0","type":"session_meta","updated_at_ms":1776013004565,"version":1}
+{"message":{"blocks":[{"text":"List the top-level files in this directory.","type":"text"}],"role":"user"},"type":"message"}
